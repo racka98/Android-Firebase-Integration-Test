@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Integration Test</string>
+    <string name="web_client_id" translatable="false">216932052283-44n2j5h2uu266p3k2a1jq450ejp567o3.apps.googleusercontent.com</string>
+</resources>
